@@ -4,7 +4,7 @@
 
 ## 🌱 Como comensar este proyeccto
 
-Este proyeccto biene con los archibos nesesarios para comensar a trabajar de inmdiato.
+Este proyecto biene con los archibos necesarios para comensar a trabajar de inmdiato.
 
 Recomendamos abrir este mismo repositorio usando un entonrno de desarollo como Codespaces (recomendado) o Gitpod. Alternatibamente, puedes clonarlo en tu computdora local usando el comando `git clone`.
 
