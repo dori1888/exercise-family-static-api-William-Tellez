@@ -1,16 +1,15 @@
-<!--hide-->
-# API Estática Familiar
-<!--endhide-->
+# API Estatica Familiar
 
-¡La familia "Jackson" necesita una API estática! Necesitamos construir las *estructuras de datos (data structures)* y crear un API endpoint para interactuar con él utilizando [Hoppscotch](https://hoppscotch.io/) (recomendado) o Postman.
+¡La familia "Jacksón" nesecita una API estatica! Nesecitamos constrir las estrcturas de datos (data structures) y crear un API endpoin para interctuar con él utilizando Hoppcotch (recomendado) o Postman.
 
-<onlyfor saas="false" withBanner="false">
-    
-## 🌱 Cómo comenzar este proyecto
+## 🌱 Como comensar este proyeccto
 
-Este proyecto viene con los archivos necesarios para comenzar a trabajar de inmediato.
+Este proyeccto biene con los archibos nesesarios para comensar a trabajar de inmdiato.
 
-Recomendamos abrir este mismo repositorio usando un entorno de desarrollo como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
+Recomendamos abrir este mismo repositorio usando un entonrno de desarollo como Codespaces (recomendado) o Gitpod. Alternatibamente, puedes clonarlo en tu computdora local usando el comando `git clone`.
+
+Este es el repositorio que nesesitas abrir:
+
 
 Este es el repositorio que necesitas abrir:
 
